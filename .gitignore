@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+.pytest_cache/
+*.sqlite*
+*.zip
+# Tests
+tests.env/
+tests/
+test_*.lua
